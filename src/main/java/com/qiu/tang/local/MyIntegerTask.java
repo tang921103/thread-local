@@ -1,4 +1,4 @@
-package com.qiu.tang;
+package com.qiu.tang.local;
 
 public class MyIntegerTask implements Runnable {
     private String name;
